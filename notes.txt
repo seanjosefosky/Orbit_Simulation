@@ -1,0 +1,13 @@
+What is this game about?
+- You are a rocket ship that travels between celestial bodies by launching into their orbits
+
+Game Loop:
+- player begins game orbiting around a celestial body
+- player must launch ship in direction
+    - the direction traveled is dependent on which point in orbit the ship was launched
+- physics between the ship and celestial bodies will determind the outcome of the launch
+    - ship speed, gravitational pull(s), vector(s)
+- Different types of interferences will prevent the success of the rocket ship
+    - asteroids, aliens, solar rays
+- Game control(s) is similar to that of Jump King (Press a single key to launch)
+    - Variation will depend on the ship's environment and the point from orbit the launch happened
