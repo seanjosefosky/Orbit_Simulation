@@ -5,7 +5,7 @@ Game Loop:
 - player begins game orbiting around a celestial body
 - player must launch ship in direction
     - the direction traveled is dependent on which point in orbit the ship was launched
-- physics between the ship and celestial bodies will determind the outcome of the launch
+- physics between the ship and celestial bodies will determine the outcome of the launch
     - ship speed, gravitational pull(s), vector(s)
 - Different types of interferences will prevent the success of the rocket ship
     - asteroids, aliens, solar rays
